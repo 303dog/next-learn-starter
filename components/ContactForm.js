@@ -32,7 +32,7 @@ export default function ContactForm() {
         <textarea name='message' id='yourmessage' maxlength='500'></textarea></label>
       </p>
       <label htmlFor='upload'>Upload a file</label>
-      <input id='file' name='upload' type='file' />
+      <input name='upload' type='file' />
       <p>
         <button type='submit'>Send</button>
       </p>
