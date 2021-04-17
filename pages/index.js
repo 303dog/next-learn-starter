@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <Layout home>
       <Head>
-        <title>{siteTitle}</title>
+        <title>irononcarpetlabels.com</title>
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Welcome</p>
